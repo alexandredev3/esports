@@ -1,6 +1,0 @@
-{
-  "extends": "@esports/tsconfig/tsconfig.react-native.json",
-  "compilerOptions": {
-    "strict": true
-  }
-}
